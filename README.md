@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi My name is Mustafa Jeilan<br>Full Stack (MERN) Developer<br><br>I'm an aspiring Full-Stack Developer passionate about building modern and responsive web applications<br><br>🌍  I'm based in Mombasa, Kenya<br>🧠  I'm currently learning JavaScript, TypeScript, Sass, Tailwind, Reactjs, Express, node, MongoDB, Nextjs<br>⚡  I'm focused on improving my coding skills every day by building projects, exploring best practices, and working toward becoming a professional MERN Stack Developer. Always open to learning, collaborating, and connecting with other developers<br>✉️  You can contact me at mustafajeilan10@gmail.com
+<b>Hi My name is Mustafa Jeilan<b><br><b>Full Stack (MERN) Developer<b><br><br>I'm an aspiring Full-Stack Developer passionate about building modern and responsive web applications<br><br>🌍  I'm based in Mombasa, Kenya<br>🧠  I'm currently learning JavaScript, TypeScript, Sass, Tailwind, Reactjs, Express, node, MongoDB, Nextjs<br>⚡  I'm focused on improving my coding skills every day by building projects, exploring best practices, and working toward becoming a professional MERN Stack Developer. Always open to learning, collaborating, and connecting with other developers<br>✉️  You can contact me at mustafajeilan10@gmail.com
 
 
 ## 🌐 Socials:
