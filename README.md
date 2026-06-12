@@ -1,18 +1,287 @@
-# 💫 About Me:
-<b>Hi My name is Mustafa Jeilan<b><br><b>Full Stack (MERN) Developer<b><br><br>I'm an aspiring Full-Stack Developer passionate about building modern and responsive web applications<br><br>🌍  I'm based in Mombasa, Kenya<br>🧠  I'm currently learning JavaScript, TypeScript, Sass, Tailwind, Reactjs, Express, node, MongoDB, Nextjs<br>⚡  I'm focused on improving my coding skills every day by building projects, exploring best practices, and working toward becoming a professional MERN Stack Developer. Always open to learning, collaborating, and connecting with other developers<br>✉️  You can contact me at mustafajeilan10@gmail.com
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4C1D95,50:6D28D9,100:8B5CF6&text=Mustafa%20Jeilan&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20MERN%20Stack%20Developer&descAlignY=58"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/jeilan-mustafa) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Aspiring+MERN+Stack+Developer;Building+Modern+Web+Applications;Currently+Learning+JavaScript;Passionate+About+Software+Engineering"/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mustafajeilan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=mustafajeilan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mustafajeilan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
+
+![](https://img.shields.io/badge/Mwenaro%20Academy-Software%20Engineering-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/MERN-Stack-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Mombasa-Kenya-8B5CF6?style=for-the-badge)
+
+<br><br>
+
+<a href="https://linkedin.com/in/jeilan-mustafa">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:mustafajeilan10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/mustafajeilan">
+<img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=mustafajeilan&style=for-the-badge&color=6D28D9)
+
+![](https://img.shields.io/github/followers/mustafajeilan?style=for-the-badge&color=7C3AED)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=mustafajeilan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I'm a passionate *Software Engineering student at Mwenaro Academy* and an aspiring *MERN Stack Developer* dedicated to building modern and scalable web applications.
+
+My journey focuses on mastering the MERN stack, strengthening problem-solving skills, and developing an engineering mindset centered around clean code, maintainability, and continuous learning.
+
+### Open To
+
+- Software Engineering Internships
+- Open Source Collaboration
+- Frontend Development Opportunities
+- MERN Stack Projects
+
+---
+
+# Tech Stack
+
+## Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+
+</div>
+
+## Frontend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=tailwind,sass"/>
+
+</div>
+
+## Backend & Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
+
+</div>
+
+## Cloud, DevOps & Tooling
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</div>
+
+---
+
+# Software Engineering Focus
+
+| Domain | Current Level | Details |
+|----------|---------------|---------|
+| Frontend Development | Intermediate | Building responsive interfaces |
+| Software Engineering | Growing | Learning best practices and clean code |
+| Version Control | Intermediate | Git and GitHub workflows |
+| MERN Stack | In Progress | Working toward full-stack proficiency |
+| Problem Solving | Growing | Practical project-based learning |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🚀 Projects Under Development</b></summary>
+
+<br>
+
+| Category | Details |
+|-----------|---------|
+| Stack | HTML, CSS, Sass, Tailwind CSS |
+| Scale | Personal Projects |
+| Performance | Responsive Design |
+| Impact | Continuous Learning |
+| Repository | Coming Soon |
+
+Currently building practical projects while progressing through software engineering training at Mwenaro Academy.
+
+</details>
+
+---
+
+# Experience
+
+## Software Engineering Student | Mwenaro Academy
+
+*2025 - Present*
+
+Currently undergoing structured software engineering training focused on modern web development and professional engineering practices.
+
+### Scope of Work
+
+- Studying JavaScript and modern web technologies
+- Building practical frontend projects
+- Learning Git and GitHub workflows
+- Developing debugging and problem-solving skills
+- Understanding software engineering principles
+
+### Skills
+
+HTML
+CSS
+Sass
+Tailwind CSS
+Git
+GitHub
+JavaScript
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| HTML & CSS | Successfully completed |
+| Git & GitHub | Learned version control workflows |
+| Frontend Development | Building practical projects |
+| JavaScript | Currently studying |
+| Software Engineering | Enrolled at Mwenaro Academy |
+
+</div>
+
+---
+
+# Certifications
+
+<div align="center">
+
+![](https://img.shields.io/badge/Certifications-Coming%20Soon-6D28D9?style=for-the-badge)
+
+</div>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+![](https://img.shields.io/badge/LeetCode-Coming%20Soon-6D28D9?style=for-the-badge&logo=leetcode)
+
+![](https://img.shields.io/badge/HackerRank-Coming%20Soon-7C3AED?style=for-the-badge&logo=hackerrank)
+
+![](https://img.shields.io/badge/CodeChef-Coming%20Soon-8B5CF6?style=for-the-badge)
+
+![](https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-6D28D9?style=for-the-badge)
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafajeilan&show_icons=true&theme=midnight-purple"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafajeilan&theme=midnight-purple"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafajeilan&layout=compact&theme=midnight-purple"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=mustafajeilan&theme=discord&no-frame=true&column=4)
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=mustafajeilan&theme=react-dark)
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/mustafajeilan/mustafajeilan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# Current Focus
+
+yaml
+Learning:
+  - JavaScript
+  - MERN Stack
+  - Software Engineering Principles
+
+Building:
+  - Frontend Projects
+  - Responsive Interfaces
+
+Exploring:
+  - Node.js
+  - Express.js
+  - MongoDB
+
+Open To:
+  - Software Engineering Internships
+  - Open Source Collaboration
+
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:mustafajeilan10@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/jeilan-mustafa">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/mustafajeilan">
+<img src="https://img.shields.io/badge/GitHub-Profile-8B5CF6?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> "Continuous learning and consistent execution turn ambition into expertise."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
+
+</div>
