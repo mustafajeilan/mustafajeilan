@@ -122,7 +122,7 @@ Currently building practical projects while progressing through software enginee
 
 ## Software Engineering Student | Mwenaro Academy
 
-*2025 - Present*
+*2026 - Present*
 
 Currently undergoing structured software engineering training focused on modern web development and professional engineering practices.
 
